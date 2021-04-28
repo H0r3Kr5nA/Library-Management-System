@@ -15,5 +15,4 @@ Each form has its validations, so the possibility of wrong entries is minimized.
 - [x] A vast amount of time consumption in searching for books and library management.
 - [x] Book-thefts from the library.
 
-### ***Source Code***
-In Progress.........:atom:
+
